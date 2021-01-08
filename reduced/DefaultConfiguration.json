@@ -1,0 +1,24 @@
+{
+  "UARTConfiguration":
+    {"Path":"/dev/ttyUSB0",
+    "BaudRate":9600,
+    "Parity":"none",
+    "DataSize":8,
+    "StopBits":1
+    },
+  
+  "LedConfiguration": 
+  {
+   "Led_1": {
+      "LEDNumber": 1, 
+      "Intensity": 55
+    },
+   "Led_2": {
+      "LEDNumber": 2,
+      "Intensity": 32
+    },
+    "Led_3": {
+      "LEDNumber" : 3
+    }
+  }
+}
